@@ -1,0 +1,60 @@
+[COM11]  sdklf; ++ sdj flk ++ k sl;df ++ Level=0,7.0
+wjkelr 
+dklfg 
+VEC:0.4,0.6,0.1
+
+[COM12]  sdklf; ++ sdj flk ++ k sl;df ++ Level=0,7.0
+wjkelr 
+dklfg 
+VEC:0.4,0.6,0.1
+
+[COM13]  sdklf; ++ sdj flk ++ k sl;df ++ Level=0,7.0
+wjkelr 
+dklfg 
+VEC:0.4,0.6,0.1
+
+[COM12]  sdklf; ++ sdj flk ++ k sl;df ++ Level=0,3.0
+wjkelr 
+dklfg 
+VEC:0.4,0.6,0.1
+
+[COM13]  sdklf; ++ sdj flk ++ k sl;df ++ Level=0,2.0
+wjkelr 
+dklfg 
+VEC:0.4,0.6,0.1
+
+[COM11]  sdklf; ++ sdj flk ++ k sl;df ++ Level=0,5.0
+wjkelr 
+dklfg 
+VEC:0.4,0.6,0.1
+
+[COM13]  sdklf; ++ sdj flk ++ k sl;df ++ Level=0,3.6
+wjkelr 
+dklfg 
+VEC:0.4,0.6,0.1
+
+[COM11]  sdklf; ++ sdj flk ++ k sl;df ++ Level=0,5.0
+wjkelr 
+dklfg 
+VEC:0.4,0.6,0.1
+
+[COM12]  sdklf; ++ sdj flk ++ k sl;df ++ Level=0,3.0
+wjkelr 
+dklfg 
+VEC:0.4,0.6,0.1
+
+[COM11]  sdklf; ++ sdj flk ++ k sl;df ++ Level=0,5.0
+wjkelr 
+dklfg 
+VEC:0.4,0.6,0.1
+
+[COM12]  sdklf; ++ sdj flk ++ k sl;df ++ Level=0,3.0
+wjkelr 
+dklfg 
+VEC:0.4,0.6,0.1
+
+[COM13]  sdklf; ++ sdj flk ++ k sl;df ++ Level=0,2.0
+wjkelr 
+dklfg 
+VEC:0.4,0.6,0.1
+

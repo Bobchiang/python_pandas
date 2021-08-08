@@ -1,0 +1,60 @@
+[COM06]  sdklf; ++ sdj flk ++ k sl;df 
+wjkelr 
+dklfg 
+VEC:0.4,0.6,0.1
+CDV:0.2,0.6,0.1
+
+[COM05]  sdklf; ++ sdj flk ++ k sl;df 
+wjkelr 
+dklfg 
+VEC:0.5,0.6,0.1
+CDV:0.3,0.6,0.1
+
+[COM05]  sdklf; ++ sdj flk ++ k sl;df 
+wjkelr 
+dklfg 
+VEC:0.1,0.6,0.1
+CDV:0.3,0.6,0.1
+
+[COM06]  sdklf; ++ sdj flk ++ k sl;df 
+wjkelr 
+dklfg 
+VEC:0.3,0.6,0.1
+CDV:0.2,0.6,0.1
+
+[COM05]  sdklf; ++ sdj flk ++ k sl;df 
+wjkelr 
+dklfg 
+VEC:0.5,0.6,0.1
+CDV:0.3,0.6,0.1
+
+[COM06]  sdklf; ++ sdj flk ++ k sl;df 
+wjkelr 
+dklfg 
+VEC:0.1,0.6,0.1
+CDV:0.2,0.6,0.1
+
+[COM06]  sdklf; ++ sdj flk ++ k sl;df 
+wjkelr 
+dklfg 
+VEC:4.2,0.6,0.1
+CDV:0.2,0.6,0.1
+
+[COM05]  sdklf; ++ sdj flk ++ k sl;df 
+wjkelr 
+dklfg 
+VEC:3.1,0.6,0.1
+CDV:0.3,0.6,0.1
+
+[COM06]  sdklf; ++ sdj flk ++ k sl;df 
+wjkelr 
+dklfg 
+VEC:6.3,0.6,0.1
+CDV:0.2,0.6,0.1
+
+[COM05]  sdklf; ++ sdj flk ++ k sl;df 
+wjkelr 
+dklfg 
+VEC:7.2,0.6,0.1
+CDV:0.3,0.6,0.1
+

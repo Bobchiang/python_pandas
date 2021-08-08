@@ -1,0 +1,21 @@
+{
+   "logType":"EQSLog",
+   "logPath":"log2.txt",
+   "parseRule":{
+      "regex":"(COM[0-9][0-9]).*?Level=[0-9],(\\d\\.\\d)",
+      "item":[
+         "COM11",
+         "COM12",
+         "COM13"
+      ]
+   },
+   "threshold":{
+      "method":[
+         "sum",
+         "random",
+         2
+      ],
+      "thresholdValue":0.8,
+      "action":"send alarm mail"
+   }
+}
